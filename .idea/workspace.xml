@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6adca1d-70ea-4aaa-a932-72c4bd3da4ad" name="Changes" comment="2024-08-02 과제 제출">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap06_class_and_object/practice1/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap06_class_and_object/practice1/BookDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap06_class_and_object/practice2/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap06_class_and_object/practice2/StudentDTO.java" afterDir="false" />
+    <list default="true" id="d6adca1d-70ea-4aaa-a932-72c4bd3da4ad" name="Changes" comment="2024-08-05 과제 제출">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap08_polymorphism/level1_basic/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap08_polymorphism/level1_basic/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap08_polymorphism/level1_basic/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap08_polymorphism/level1_basic/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap08_polymorphism/level1_basic/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap08_polymorphism/level1_basic/ShapeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap08_polymorphism/level1_basic/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +45,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -77,6 +82,7 @@
     "Gradle.HS_camp_practice [:Application2.main()].executor": "Run",
     "Gradle.HS_camp_practice [:Application3.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Lecture/02_java/HS_camp_practice",
@@ -89,7 +95,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.ohgiraffers.chap06_class_and_object.practice2.Application">
+  <component name="RunManager" selected="Application.com.ohgiraffers.chap08_polymorphism.level1_basic.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap06_class_and_object.practice1.Application" />
       <module name="HS_camp_practice.main" />
@@ -109,19 +115,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ohgiraffers.chap05_array.demension1_array.level4_advanced.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.ohgiraffers.chap05_array.demension2_array.level1_basic.Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap05_array.demension2_array.level1_basic.Application1" />
-      <module name="HS_camp_practice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.chap05_array.demension2_array.level1_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,13 +148,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ohgiraffers.chap08_polymorphism.level1_basic.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap08_polymorphism.level1_basic.Application" />
+      <module name="HS_camp_practice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.chap08_polymorphism.level1_basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ohgiraffers.chap08_polymorphism.level1_basic.Application" />
         <item itemvalue="Application.com.ohgiraffers.chap06_class_and_object.practice2.Application" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.com.ohgiraffers.chap05_array.demension1_array.level4_advanced.Application2" />
         <item itemvalue="Application.com.ohgiraffers.chap05_array.demension2_array.level3_hard.Application1" />
-        <item itemvalue="Application.com.ohgiraffers.chap05_array.demension2_array.level1_basic.Application1" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +193,8 @@
       <workItem from="1722556893419" duration="595000" />
       <workItem from="1722575434234" duration="9254000" />
       <workItem from="1722770230215" duration="30000" />
-      <workItem from="1722840377904" duration="3580000" />
+      <workItem from="1722840377904" duration="5463000" />
+      <workItem from="1722994929611" duration="3223000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 과제 제출">
       <option name="closed" value="true" />
@@ -213,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722582823033</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2024-08-05 과제 제출">
+      <option name="closed" value="true" />
+      <created>1722844056758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722844056758</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +238,7 @@
     <MESSAGE value="2024-07-31 과제 제출" />
     <MESSAGE value="chap04 과제 커밋" />
     <MESSAGE value="2024-08-02 과제 제출" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-02 과제 제출" />
+    <MESSAGE value="2024-08-05 과제 제출" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-05 과제 제출" />
   </component>
 </project>
