@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6adca1d-70ea-4aaa-a932-72c4bd3da4ad" name="Changes" comment="2024-08-07 과제 제출 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap10_exception/level1_basic/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap10_exception/level1_basic/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap11_io/level1_basic/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap11_io/level1_basic/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    <list default="true" id="d6adca1d-70ea-4aaa-a932-72c4bd3da4ad" name="Changes" comment="2024-08-08 과제 제출">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap11_io/level02_normal/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap12_generic/level1_normal/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap12_generic/level1_normal/Application2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +90,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.ohgiraffers.chap12_generic.level1_normal.Application2">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap11_io.level02_normal.Application" />
+      <module name="HS_camp_practice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.chap11_io.level02_normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap11_io.level1_basic.Application1" />
       <module name="HS_camp_practice.main" />
@@ -106,33 +117,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap10_exception.level1_basic.Application2" />
-      <module name="HS_camp_practice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.chap10_exception.level1_basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.ohgiraffers.chap10_exception.level1_basic.Application2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap10_exception.level1_basic.Application2" />
-      <module name="HS_camp_practice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.chap10_exception.level1_basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.ohgiraffers.chap10_exception.level1_basic.Application2 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap10_exception.level1_basic.Application2" />
       <module name="HS_camp_practice.main" />
       <extension name="coverage">
@@ -158,13 +143,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ohgiraffers.chap12_generic.level1_normal.Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap12_generic.level1_normal.Application1" />
+      <module name="HS_camp_practice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.chap12_generic.level1_normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.chap12_generic.level1_normal.Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap12_generic.level1_normal.Application2" />
+      <module name="HS_camp_practice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.chap12_generic.level1_normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ohgiraffers.chap12_generic.level1_normal.Application2" />
+        <item itemvalue="Application.com.ohgiraffers.chap12_generic.level1_normal.Application1" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.com.ohgiraffers.chap11_io.level1_basic.Application2" />
         <item itemvalue="Application.Application1" />
-        <item itemvalue="Application.Application2" />
-        <item itemvalue="Application.com.ohgiraffers.chap10_exception.level1_basic.Application2 (3)" />
-        <item itemvalue="Application.com.ohgiraffers.chap10_exception.level1_basic.Application2 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +204,8 @@
       <workItem from="1722840377904" duration="5463000" />
       <workItem from="1722994929611" duration="5398000" />
       <workItem from="1723013196605" duration="3465000" />
-      <workItem from="1723099173505" duration="6659000" />
+      <workItem from="1723099173505" duration="6843000" />
+      <workItem from="1723185741231" duration="2440000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 과제 제출">
       <option name="closed" value="true" />
@@ -243,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723016051347</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2024-08-08 과제 제출">
+      <option name="closed" value="true" />
+      <created>1723106042035</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723106042035</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +276,7 @@
     <MESSAGE value="2024-08-05 과제 제출" />
     <MESSAGE value="2024-08-07 과제 제출" />
     <MESSAGE value="2024-08-07 과제 제출 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-07 과제 제출 2" />
+    <MESSAGE value="2024-08-08 과제 제출" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-08 과제 제출" />
   </component>
 </project>
