@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6adca1d-70ea-4aaa-a932-72c4bd3da4ad" name="Changes" comment="2024-08-08 과제 제출">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap11_io/level02_normal/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap12_generic/level1_normal/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap12_generic/level1_normal/Application2.java" afterDir="false" />
+    <list default="true" id="d6adca1d-70ea-4aaa-a932-72c4bd3da4ad" name="Changes" comment="2024-08-09 과제 제출">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap13_collection/level1_basic/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap13_collection/level1_basic/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap13_collection/level1_basic/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap13_collection/level1_basic/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap13_collection/level1_basic/Application5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap13_collection/level1_basic/Application6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +79,9 @@
     "Gradle.HS_camp_practice [:Application1.main()].executor": "Run",
     "Gradle.HS_camp_practice [:Application2.main()].executor": "Run",
     "Gradle.HS_camp_practice [:Application3.main()].executor": "Run",
+    "Gradle.HS_camp_practice [:Application4.main()].executor": "Run",
+    "Gradle.HS_camp_practice [:Application5.main()].executor": "Run",
+    "Gradle.HS_camp_practice [:Application6.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -90,13 +96,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.ohgiraffers.chap12_generic.level1_normal.Application2">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap11_io.level02_normal.Application" />
+  <component name="RunManager" selected="Application.Application6">
+    <configuration name="Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap13_collection.level1_basic.Application2" />
       <module name="HS_camp_practice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.chap11_io.level02_normal.*" />
+          <option name="PATTERN" value="com.ohgiraffers.chap13_collection.level1_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap11_io.level1_basic.Application1" />
+    <configuration name="Application3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap13_collection.level1_basic.Application3" />
       <module name="HS_camp_practice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.chap11_io.level1_basic.*" />
+          <option name="PATTERN" value="com.ohgiraffers.chap13_collection.level1_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ohgiraffers.chap10_exception.level1_basic.Application2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap10_exception.level1_basic.Application2" />
+    <configuration name="Application4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap13_collection.level1_basic.Application4" />
       <module name="HS_camp_practice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.chap10_exception.level1_basic.*" />
+          <option name="PATTERN" value="com.ohgiraffers.chap13_collection.level1_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ohgiraffers.chap11_io.level1_basic.Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap11_io.level1_basic.Application2" />
+    <configuration name="Application5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap13_collection.level1_basic.Application5" />
       <module name="HS_camp_practice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.chap11_io.level1_basic.*" />
+          <option name="PATTERN" value="com.ohgiraffers.chap13_collection.level1_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,25 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ohgiraffers.chap12_generic.level1_normal.Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap12_generic.level1_normal.Application1" />
+    <configuration name="Application6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap13_collection.level1_basic.Application6" />
       <module name="HS_camp_practice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.chap12_generic.level1_normal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.ohgiraffers.chap12_generic.level1_normal.Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap12_generic.level1_normal.Application2" />
-      <module name="HS_camp_practice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.chap12_generic.level1_normal.*" />
+          <option name="PATTERN" value="com.ohgiraffers.chap13_collection.level1_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.ohgiraffers.chap12_generic.level1_normal.Application2" />
-        <item itemvalue="Application.com.ohgiraffers.chap12_generic.level1_normal.Application1" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.com.ohgiraffers.chap11_io.level1_basic.Application2" />
-        <item itemvalue="Application.Application1" />
+        <item itemvalue="Application.Application6" />
+        <item itemvalue="Application.Application5" />
+        <item itemvalue="Application.Application4" />
+        <item itemvalue="Application.Application3" />
+        <item itemvalue="Application.Application2" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +198,8 @@
       <workItem from="1722994929611" duration="5398000" />
       <workItem from="1723013196605" duration="3465000" />
       <workItem from="1723099173505" duration="6843000" />
-      <workItem from="1723185741231" duration="2440000" />
+      <workItem from="1723185741231" duration="3062000" />
+      <workItem from="1723444240174" duration="5607000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 과제 제출">
       <option name="closed" value="true" />
@@ -263,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723106042035</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2024-08-09 과제 제출">
+      <option name="closed" value="true" />
+      <created>1723188285992</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723188285992</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +279,7 @@
     <MESSAGE value="2024-08-07 과제 제출" />
     <MESSAGE value="2024-08-07 과제 제출 2" />
     <MESSAGE value="2024-08-08 과제 제출" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-08 과제 제출" />
+    <MESSAGE value="2024-08-09 과제 제출" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-09 과제 제출" />
   </component>
 </project>
